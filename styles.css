@@ -39,11 +39,11 @@ body {
     flex-direction: column;
 }
 
-.panel1 {background-image: url(/images/image1.jfif);}
-.panel2 {background-image: url(/images/image2.jpg);}
-.panel3 {background-image: url(/images/image3.jfif);}
-.panel4 {background-image: url(/images/image4.jfif);}
-.panel5 {background-image: url(/images/image5.jfif);}
+.panel1 {background-image: url(images/image1.jfif);}
+.panel2 {background-image: url(images/image2.jpg);}
+.panel3 {background-image: url(images/image3.jfif);}
+.panel4 {background-image: url(images/image4.jfif);}
+.panel5 {background-image: url(images/image5.jfif);}
 
 .panel > * {
     margin: 0;
